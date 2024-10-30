@@ -1,7 +1,7 @@
 # quil_check
 
 
-This repository contains two scripts designed to handle `.hex` files and JSON data processing. The first script (`kode 1`) extracts hexadecimal strings from files and stores them in a JSON format, while the second script (`kode 2`) compares JSON data to identify common items between two JSON files.
+This repository contains two scripts designed to handle `.hex` files and JSON data processing. The first script (`convert.js`) extracts hexadecimal strings from files and stores them in a JSON format, while the second script (`validate.js`) compares JSON data to identify common items between two JSON files.
 
 ## Requirements
 - Node.js installed on your system.
